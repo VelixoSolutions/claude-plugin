@@ -1,0 +1,20 @@
+{
+  "name": "velixo",
+  "description": "Velixo's Claude Code extensions",
+  "owner": {
+    "name": "Velixo",
+    "email": "support@velixo.com"
+  },
+  "plugins": [
+    {
+      "name": "velixo",
+      "source": "./",
+      "description": "Work with a connected Acumatica ERP from Claude Code through the Velixo MCP server. Turns natural-language questions into validated GIQL, reads and writes records through the Screen API, runs ERP reports, and handles record attachments.",
+      "author": {
+        "name": "Velixo"
+      },
+      "category": "productivity",
+      "homepage": "https://velixo.com"
+    }
+  ]
+}

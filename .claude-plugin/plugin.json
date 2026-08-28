@@ -1,0 +1,10 @@
+{
+  "name": "velixo",
+  "description": "Work with a connected Acumatica ERP from Claude Code through the Velixo MCP server. Turns natural-language questions into validated GIQL, reads and writes records through the Screen API, runs ERP reports, and handles record attachments.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Velixo",
+    "email": "support@velixo.com"
+  },
+  "homepage": "https://velixo.com"
+}
